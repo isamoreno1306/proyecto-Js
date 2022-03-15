@@ -1,0 +1,15 @@
+Taller 1: Nota 3.0
+    * El tipo de dato del grado no es double, debe ser STRING porque almacena datos alfanuméricos.
+    * La edad tampoco es double, porque las edades, por lo general, no usan decimales.
+    * La edad que se recibe por teclado debe guardarse en la variable que corresponde.
+    * El valor de la variable gradoEstudiante debía ser inicializado y no asignado.
+    * La instrucción de la línea 12 está incompleta, por tanto no funciona.
+
+Taller 2: Nota 2.8
+    * El index.html no tiene el script de taller 2.js, eso indica que no se realizaron pruebas
+    * linea 6, 7, 12 17, 18 23, 24, 25, 26  falta letra P en el metodo prompt
+    * Linea 20, llamas dos variables que no existen
+    * lineas 34 y 36, operaciones incorrectas
+    * Punto 4 incompleto, líneas 38 a 42
+    * Mensaje incorrecto en la linea 49
+    * Punto 7 incompleto
