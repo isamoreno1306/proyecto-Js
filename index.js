@@ -97,7 +97,25 @@ console.log (nombrecito.length-1);
 //se debe buscar la longitud de la cadena y restarle 1 para encontrar la ultima letra 
 //valores inmutables
 //las posiciones de una cadena se pueden consultar pero no se pueden reasignar su valor 
-nombrecito= [0]= "p"
+nombrecito[0]= "p"
 console.log (nombrecito);
 nombrecito= "isabella";
 console.log (nombrecito);
+//parseo o casting
+/*se trata de convertir la variable a otro tipo de datos, los canbios existentes son:
+* a entero parceInt ()
+* a decimal parseFloat ()
+* a cadena string ()*/
+//convertir variable 
+var entero1= prompt("Ingrese un estero");
+var entero2= prompt("ingrese otro entero");
+var sumaE= entero1+entero2;
+console.log("sin parceInt " + sumaE);
+//forma1
+/*convertir el dato justo en el momento en que se recibe por teclado
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado
+*/
+entero1= parseInt (prompt("Ingrese un entero"));
+entero2= parseInt (prompt("ingrese otro entero"));
+sumaE= entero1+entero2;
+console.log ("convertido" + sumaE); 

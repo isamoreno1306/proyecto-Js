@@ -3,27 +3,27 @@
 fecha 09/03/2022
 realizado por: Isabella Moreno- Maria Jose Tangarife*/
 
-var area=promt  ("por favor ingrese las medidas del cuadrado para asi hallar su area")
-var area2= promt ("por favor ingrese las medidas de uno de los lados del cuadrado")
+var area=prompt("por favor ingrese las medidas del cuadrado para asi hallar su area");
+var area2= prompt ("por favor ingrese las medidas de uno de los lados del cuadrado");
 var cuadrado 
 cuadrado=area * area2;
 console.log ("area del cuadrado es" , cuadrado);
 
-var volumen= promt ("ingrese la l0ongitud para hallar el volumen del cubo");
+var volumen= prompt ("ingrese la l0ongitud para hallar el volumen del cubo");
 var cubo
 cubo= volumen **3
 console.log ("el volumen del cubo es" , cubo);
 
-var areRectangulo= promt ("ingrese la altura del rectangulo para hallar su area");
-var areRectangulo2= promt ("por favor ingrese la base del rectangulo");
+var areRectangulo= prompt ("ingrese la altura del rectangulo para hallar su area");
+var areRectangulo2= prompt ("por favor ingrese la base del rectangulo");
 var rectangulo1
 rectangulo1= areaRectangulo * areaRectangulo2
 console.log ("el area del rectangulo es", rectangulo1);
 
-var perimetro = promt ("ingrese el lado del rectangulo para hallar su perimetro");
-var perimetro1= promt ("por favor ingrese el optro lado del rectangulo");
-var PerimetroBase= promt ("ingrese la base");
-var perimetroAltura= promt ("ingrese la altura del rectangulo");
+var perimetro = prompt ("ingrese el lado del rectangulo para hallar su perimetro");
+var perimetro1= prompt ("por favor ingrese el optro lado del rectangulo");
+var PerimetroBase= prompt ("ingrese la base");
+var perimetroAltura= prompt ("ingrese la altura del rectangulo");
 var rectangulo
 rectangulo= perimetro+ perimetro1+ perimetroBase+ perimetroAltura;
 console.log ("el perimetro del rectangulo es", rectangulo); 
@@ -65,4 +65,7 @@ var microgramos=prompt ("por favor ingrese el valor que desea transformar a gram
 var gramos=microgramos*(1.0/1.000000);
 console.log("el valor que ingreso transformado es",gramos);
 
-var kilometros=prompt ()
+var kilometros=prompt ("por favor ingrese el valor que desesa transformar");
+var litros=decilitros*(1.0/0.1);
+console.log (" el valor que ingreso transformado es", litros);
+
