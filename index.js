@@ -119,3 +119,4 @@ entero1= parseInt (prompt("Ingrese un entero"));
 entero2= parseInt (prompt("ingrese otro entero"));
 sumaE= entero1+entero2;
 console.log ("convertido" + sumaE); 
+
