@@ -29,4 +29,3 @@ var kilolitros;
 
 kilolitros  = litrosGastados /1000
 console.log ("la equivalencia es " + kilolitros + "kl")
-
