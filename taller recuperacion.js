@@ -40,3 +40,15 @@ var horas
 var costoLlamada 
 horas=prompt("ingrese la cantidad de horas");
 costoLlamada
+
+
+//TALLER 3 
+
+var y 
+var x 
+
+x=prompt ("ingrese por favor un valor para x");
+y=x**2 + 3;
+console.log ("el valor de y seria " + y)
+
+
