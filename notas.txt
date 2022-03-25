@@ -1,0 +1,8 @@
+isabella Moreno, maria jose
+
+Taller 3 (Recuperación): Nota 3.8 en ambos talleres
+    * Mensaje linea 16, no aclara si el tiempo es en horas o minutos, ...
+    * Linea 24, la operacion es multiplicacion
+    * Linea 30, es division entre 100
+
+
