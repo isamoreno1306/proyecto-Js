@@ -5,4 +5,13 @@ Taller 3 (Recuperación): Nota 3.8 en ambos talleres
     * Linea 24, la operacion es multiplicacion
     * Linea 30, es division entre 100
 
+************************************************ segundo periodo
 
+taller 1: Nota 4.0
+    * punto 1 no está resuelto
+    * punto 3, no está resuelto
+    * linea 34, condicion incorrecta 
+    * punto 12, no muestra mensaje si son consonantes 
+
+
+enlace examen: https://acortar.link/HmjOm1
