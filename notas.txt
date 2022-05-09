@@ -15,3 +15,8 @@ taller 1: Nota 4.0
 
 
 enlace examen: https://acortar.link/HmjOm1
+
+examen: Nota 3.3
+    * linea 23, no compara el tipo de variable
+    * linea 29, debía ser >= 
+    * No hay solucion del punto 5 y 6
