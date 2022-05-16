@@ -52,6 +52,5 @@ console.log (numerO+numero);
 }
 
 //punto 5 
-
 var sandwich
 
