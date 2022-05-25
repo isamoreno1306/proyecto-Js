@@ -16,7 +16,21 @@ taller 1: Nota 4.0
 
 enlace examen: https://acortar.link/HmjOm1
 
-examen: Nota 3.3
+examen condicionales: Nota 3.3
     * linea 23, no compara el tipo de variable
     * linea 29, debía ser >= 
     * No hay solucion del punto 5 y 6
+
+taller while: Nota 4.2
+    * punto 4, imprime impares
+    * punto 8, no funciona
+
+
+examen while: nota 3
+    * linea 38, debe ser = 0
+    * linea 54 debe ser = 0
+    * linea 58, variable incorrecta
+    * linea 62, la variable ciclo4 vale 0 siempre, no habrá ningun descuento para el usuario
+    * condiciones incorrectas
+    * punto 5, el ciclo es infinito la linea 86 debia ser ciclo5+=1
+    * la condicion del 93 en adelante debe ir fuera del ciclo while y la condicon es >=
