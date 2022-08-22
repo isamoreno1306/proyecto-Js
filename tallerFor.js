@@ -42,14 +42,10 @@ arregloPrecios.push(nombre);
 }
 
 //punto 6 
-var arregloArticulo=[]; 
-var nombre=prompt("ingrese el nombre de el articulo ");
-for(var i=0; i<5; i+=1){
-    arregloArticulo.push(nombre);
-console.log (i)
-}
+var nombreArticulo=prompt("ingrese el nombre de un producto para conocer el precio");
 
-
-
-
-
+for(var i=0; i<arregloNombre.length; i++) {
+    if(arregloNombre [i] == nombreArticulo){
+        console.log (" el precio de "+ nombreArticulo + "es $"+ arregloPrecios [i]);
+        }
+        }

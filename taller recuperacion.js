@@ -50,5 +50,3 @@ var x
 x=prompt ("ingrese por favor un valor para x");
 y=x**2 + 3;
 console.log ("el valor de y seria " + y)
-
-
