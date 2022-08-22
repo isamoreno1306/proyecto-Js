@@ -1,4 +1,4 @@
-isabella Moreno, maria jose
+isabella Moreno, maria jose Tangarife
 
 Taller 3 (Recuperación): Nota 3.8 en ambos talleres
     * Mensaje linea 16, no aclara si el tiempo es en horas o minutos, ...
@@ -34,3 +34,8 @@ examen while: nota 3
     * condiciones incorrectas
     * punto 5, el ciclo es infinito la linea 86 debia ser ciclo5+=1
     * la condicion del 93 en adelante debe ir fuera del ciclo while y la condicon es >=
+
+
+ciclo for: nota Maria José Tangarife-4 Isabella Moreno-debe sustentar
+    * punto 4, no obtiene el mayor de los que guarda
+    * punto 6, no funciona como se espera
