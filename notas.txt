@@ -39,3 +39,9 @@ examen while: nota 3
 ciclo for: nota Maria José Tangarife-4 Isabella Moreno-debe sustentar
     * punto 4, no obtiene el mayor de los que guarda
     * punto 6, no funciona como se espera
+    
+
+
+Geometría:
+    Nota: 4.6
+    * El mensaje del área de las figuras está incompleto, unicamente entrega el valor
